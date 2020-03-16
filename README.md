@@ -3,11 +3,7 @@
 ## Comando para inicar api en desarrollo
 ```
 git checkout develop
-```
-```
 npm install
-```
-```
 npm run dev
 ```
 
